@@ -42,8 +42,8 @@ const text = {
     ru: "Привет, меня зовут Виталий",
   },
   home__subtitle: {
-    en: "I am freelancer, web-developer",
-    ru: "Я фрилансер, веб-разработчик",
+    en: "I am web-developer",
+    ru: "Я веб-разработчик",
   },
   home__description: {
     en: "I develop websites and web applications",
@@ -326,8 +326,8 @@ const text = {
     ru: "мои контакты",
   },
   contact__title__tel: {
-    en: "Call Me",
-    ru: "Позвоните мне",
+    en: "Phone number",
+    ru: "Tелефон",
   },
   contact__title__email: {
     en: "Email",
